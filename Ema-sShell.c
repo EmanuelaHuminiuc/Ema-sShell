@@ -107,10 +107,10 @@ void myVersionCmmd() {
   printf("Author name: ");
   printf("EMANUELA - DENISA HUMINIUC\n");
   printf("Author studies: ");
-  printf("Computer Science in English, Second Year, Group 2, Subgroup 4\n");
+  printf("Computer Science in English, Second Year\n");
   printf("Version: ");
   printf("1.0 \n");
-  printf("This project is for Operating Systems I \n");
+  printf("This project is for Operating Systems I\n");
   printf("\n");
   exit(EXIT_SUCCESS);
 

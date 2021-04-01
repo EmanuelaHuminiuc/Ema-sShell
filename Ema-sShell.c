@@ -110,7 +110,6 @@ void myVersionCmmd() {
   printf("Computer Science in English, Second Year\n");
   printf("Version: ");
   printf("1.0 \n");
-  printf("This project is for Operating Systems I\n");
   printf("\n");
   exit(EXIT_SUCCESS);
 

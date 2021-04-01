@@ -123,8 +123,8 @@ void myHelpCmmd() {
   printf("version - Displays some informations about the project & the author\n");
   printf("exit - Exits the terminal\n");
   printf("mv + the parameters:[ -i, -t, -S (with -b)] - Moves a file in a new location\n");
-  printf("cp -  \n");
-  printf("dirname -  \n");
+  printf("cp - Copies files or group of files or directories\n");
+  printf("dirname - Removes the trailing forward slashes '/' from the NAME and prints the remaining portion. If the argument NAME does not contain the forward-slash '/' then it simply prints dot '.'\n");
   printf("\n");
   exit(EXIT_SUCCESS);
 }
